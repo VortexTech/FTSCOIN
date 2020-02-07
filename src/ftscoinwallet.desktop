@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=FTSCoin Desktop
+Comment=FTSCoin Desktop
+Exec=FTSCoinGUI
+Terminal=false
+Type=Application
+Icon=ftscoin
+MimeType=x-scheme-handler/FTSCoinwallet;
+Categories=Office;Finance;Cryptocurrency
