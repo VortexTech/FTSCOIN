@@ -1,4 +1,4 @@
-![image](https://github.com/FTSCoinNetwork/FTSCoin-assets/blob/master/splash.png)
+![pls](https://user-images.githubusercontent.com/36685434/74080263-d959f800-4a07-11ea-8058-502829022009.jpg)
 
 # FTSCoin Desktop (GUI Wallet)
 Latest Release: v6.1.2
